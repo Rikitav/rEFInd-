@@ -1,5 +1,5 @@
 # rEFInd++
-rEFInd Boot Manager Constructor : Config generate and install
+rEFInd Boot Manager Constructor : Config generate and install                           
 Скрипт помогающий вам легко и просто установить rEFInd на компьютер\флешку
 
 # Ссылки
