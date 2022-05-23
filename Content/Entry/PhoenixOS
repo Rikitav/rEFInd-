@@ -1,0 +1,6 @@
+menuentry "PhoenixOS" {
+	icon EFI/rEFInd/icons/PhoenixOS.png
+	loader EFI/PhoenixOS/Boot/bootx64.efi
+	ostype Linux
+	graphics on
+}

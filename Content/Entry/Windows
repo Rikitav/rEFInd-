@@ -1,0 +1,6 @@
+menuentry "Windows" {
+	loader EFI/Microsoft/Boot/bootmgfw.efi
+	icon EFI/rEFInd/icons/Windows.png
+	ostype Windows
+	graphics on
+}

@@ -1,0 +1,4 @@
+Menuentry "GrubFM" {
+	Loader EFI\Boot\grubfmx64.efi
+	Icon EFI\rEFInd\Icons\GrubFM.png
+}

@@ -1,0 +1,7 @@
+menuentry "Linux Ubuntu" {
+	loader EFI/ubuntu/shimx64.efi
+	icon EFI/rEFInd/icons/Ubuntu.png
+	ostype Linux
+	graphics on
+	
+}

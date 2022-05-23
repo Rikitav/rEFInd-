@@ -1,0 +1,6 @@
+menuentry "HackBGRT" {
+	loader EFI/HackBGRT/bootx64.efi
+	icon EFI/rEFInd/icons/HackBGRT.png
+	ostype Windows
+	graphics on
+}
