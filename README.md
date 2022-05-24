@@ -3,8 +3,8 @@ rEFInd Boot Manager Constructor : Config generate and install
 Скрипт помогающий вам легко и просто установить rEFInd на компьютер\флешку
 
 # Ссылки
-Группа во Вконтакте
-
+Группа во Вконтакте                                   
+https://vk.com/refind_constructor
 
 rEFInd++ Theme Pack (Yandex Disk)                         
 [https://drive.google.com/file/d/1wiWOfzluY3VQAoyCXsvDfJmdCxsCUNBw/view?usp=sharing](https://disk.yandex.ru/d/pnBVDK9rSEEDSw)
