@@ -4,7 +4,7 @@ rEFInd Boot Manager Constructor : Config generate and install
 
 # Ссылки
 Группа во Вконтакте                                   
-https://vk.com/refind_constructor
+https://vk.com/refind_project
 
 rEFInd++ Theme Pack (Yandex Disk)                         
 [https://drive.google.com/file/d/1wiWOfzluY3VQAoyCXsvDfJmdCxsCUNBw/view?usp=sharing](https://disk.yandex.ru/d/pnBVDK9rSEEDSw)
